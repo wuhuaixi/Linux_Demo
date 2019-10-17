@@ -1,0 +1,1605 @@
+time:03-18  15:38:05  log:[infor] HA_InitEx sucess
+
+time:03-18  15:38:05  log:[infor] HA_ConnectEx
+
+time:03-18  15:38:05  log:connect sucess
+
+time:03-18  15:38:05  log:[infor]EventCallBack cam=0x1c57780,static=1
+
+time:03-18  15:38:05  log:DispatchCallBack:: msg_type=4
+
+time:03-18  15:38:05  log:message=4  reply_message=7
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_VerifyCam,line:2829,cam:1c57780,sucess
+
+time:03-18  15:38:05  log:DispatchCallBack:: msg_type=4
+
+time:03-18  15:38:05  log:message=4  reply_message=7
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_VerifyCam,line:2829,cam:1c57780,sucess
+
+time:03-18  15:38:05  log:connect end
+
+time:03-18  15:38:05  log:DispatchCallBack:: msg_type=4
+
+time:03-18  15:38:05  log:message=4  reply_message=1000
+
+time:03-18  15:38:05  log:DispatchCallBack:: msg_type=4
+
+time:03-18  15:38:05  log:message=4  reply_message=201
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_GetFaceSystemCfgEx,line:4220,cam:1c57780:sucess
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_ConnectEx,line:2694,ip:192.168.0.40,sucess
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgPaths,line:9954,cam:1c57780
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgFaces,line:10072,cam:1c57780
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFaces,line:10240,cam:1c57780
+
+time:03-18  15:38:05  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFacePacket,line:10619,cam:1c57780
+
+time:03-18  15:38:05  log:[infor]AddFacePacket Send
+time:03-18  15:38:06  log:DispatchCallBack:: msg_type=4
+
+time:03-18  15:38:06  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFacePacket,line:10720,cam:1c57780,error:sucess
+
+time:03-18  15:38:06  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFaces,line:10321,cam:1c57780,error:unonnected
+
+time:03-18  15:38:06  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgFaces,line:10118,cam:1c57780,error:sucess
+
+time:03-18  15:38:06  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgPaths,line:9984,cam:1c57780,error:unonnected
+
+time:03-18  15:38:06  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgPaths,line:9954,cam:1c57780
+
+time:03-18  15:38:06  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgFaces,line:10072,cam:1c57780
+
+time:03-18  15:38:06  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFaces,line:10240,cam:1c57780
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFacePacket,line:10619,cam:1c57780
+
+time:03-18  15:38:07  log:[infor]AddFacePacket Send
+time:03-18  15:38:07  log:DispatchCallBack:: msg_type=4
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFacePacket,line:10720,cam:1c57780,error:sucess
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFaces,line:10321,cam:1c57780,error:unonnected
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgFaces,line:10118,cam:1c57780,error:sucess
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgPaths,line:9984,cam:1c57780,error:unonnected
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgPaths,line:9954,cam:1c57780
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgFaces,line:10072,cam:1c57780
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFaces,line:10240,cam:1c57780
+
+time:03-18  15:38:07  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFacePacket,line:10619,cam:1c57780
+
+time:03-18  15:38:07  log:[infor]AddFacePacket Send
+time:03-18  15:38:08  log:DispatchCallBack:: msg_type=4
+
+time:03-18  15:38:08  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFacePacket,line:10720,cam:1c57780,error:sucess
+
+time:03-18  15:38:08  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddFaces,line:10321,cam:1c57780,error:unonnected
+
+time:03-18  15:38:08  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgFaces,line:10118,cam:1c57780,error:sucess
+
+time:03-18  15:38:08  log:ti:15:33:09 Mar 18 2019,fuc:HA_AddJpgPaths,line:9984,cam:1c57780,error:unonnected
+
+time:03-18  15:38:12  log:DispatchCallBack:: msg_type=2
+
+time:05-30  02:49:42  log:[infor] HA_InitEx 
+
+time:05-30  02:49:42  log:[infor] HA_InitEx sucess
+
+time:05-30  02:49:42  log:[infor] HA_ConnectEx ip=127.0.0.1 
+
+time:05-30  02:49:42  log:CCameraClient::ConnectToHost IP=127.0.0.1 
+ 
+time:05-30  02:49:42  log:connect sucess IP =127.0.0.1 
+
+time:05-30  02:49:42  log:[infor]EventCallBack cam=0x606ae8,static=1 
+
+time:05-30  02:49:42  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2549,cam:606ae8
+
+time:05-30  02:49:43  log:DispatchCallBack:: msg_type=4   size=16 
+
+time:05-30  02:49:43  log:message=4  reply_message=7
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2610,cam:606ae8,ret=0 
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2549,cam:606ae8
+
+time:05-30  02:49:43  log:DispatchCallBack:: msg_type=4   size=16 
+
+time:05-30  02:49:43  log:message=4  reply_message=7
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2610,cam:606ae8,ret=0 
+
+time:05-30  02:49:43  log:g_EventCallbackThread end
+
+time:05-30  02:49:43  log:connect end IP=127.0.0.1  
+
+time:05-30  02:49:43  log:DispatchCallBack:: msg_type=4   size=476 
+
+time:05-30  02:49:43  log:message=4  reply_message=1000
+
+time:05-30  02:49:43  log:DispatchCallBack:: msg_type=4   size=8624 
+
+time:05-30  02:49:43  log:message=4  reply_message=201
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_GetFaceSystemCfgEx,line:4002,cam:606ae8:sucess
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_ConnectEx,line:2473,ip:127.0.0.1,sucess
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:49:43  log:w=1447 h=1446 
+
+time:05-30  02:49:43  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:49:44  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:49:44  log:[infor]AddFacePacket Send
+time:05-30  02:49:45  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:49:45  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:49:45  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:49:45  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:49:45  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:49:45  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:49:46  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:49:47  log:w=3000 h=4000 
+
+time:05-30  02:49:47  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:49:47  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:49:47  log:[infor]AddFacePacket Send
+time:05-30  02:49:48  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:49:48  log:w=295 h=413 
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:49:48  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:49:48  log:[infor]AddFacePacket Send
+time:05-30  02:49:49  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:49:49  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:49:49  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:49:49  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:49:49  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:49:53  log:b_deinit++++++++++++++++++++
+
+time:05-30  02:49:53  log:ti:17:36:29 May 10 2019,fuc:HA_DisConnect,line:2618,cam:606ae8
+
+time:05-30  02:49:53  log:DisConnect by user
+
+time:05-30  02:49:53  log:[infor]  DisConnect 
+
+time:05-30  02:49:53  log:ti:17:36:29 May 10 2019,fuc:HA_DisConnect,line:2640,cam:606ae8,sucess
+
+time:05-30  02:49:53  log:[infor]HA_DisConnect
+
+time:05-30  02:49:53  log:[infor]object stop
+
+time:05-30  02:49:53  log:[infor] alldisconnected
+
+time:05-30  02:49:53  log:[infor]CallBackThread::stop
+
+time:05-30  02:49:53  log:[infor]CallBackThread::WakeAll
+
+time:05-30  02:49:53  log:[infor]g_dispatchCbThread stop
+
+time:05-30  02:49:53  log:[infor]delete object
+
+time:05-30  02:49:53  log:[infor]delete Decode
+
+time:05-30  02:49:53  log:[infor]delete CallbackThread
+
+time:05-30  02:49:53  log:[infor]delete patchCbThread
+
+time:05-30  02:49:53  log:deint_end____________________
+
+time:05-30  02:52:01  log:[infor] HA_InitEx 
+
+time:05-30  02:52:01  log:[infor] HA_InitEx sucess
+
+time:05-30  02:52:01  log:[infor] HA_ConnectEx ip=127.0.0.1 
+
+time:05-30  02:52:01  log:CCameraClient::ConnectToHost IP=127.0.0.1 
+ 
+time:05-30  02:52:01  log:connect sucess IP =127.0.0.1 
+
+time:05-30  02:52:01  log:[infor]EventCallBack cam=0x606ae8,static=1 
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2549,cam:606ae8
+
+time:05-30  02:52:01  log:DispatchCallBack:: msg_type=4   size=16 
+
+time:05-30  02:52:01  log:message=4  reply_message=7
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2610,cam:606ae8,ret=0 
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2549,cam:606ae8
+
+time:05-30  02:52:01  log:DispatchCallBack:: msg_type=4   size=16 
+
+time:05-30  02:52:01  log:message=4  reply_message=7
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2610,cam:606ae8,ret=0 
+
+time:05-30  02:52:01  log:g_EventCallbackThread end
+
+time:05-30  02:52:01  log:connect end IP=127.0.0.1  
+
+time:05-30  02:52:01  log:DispatchCallBack:: msg_type=4   size=476 
+
+time:05-30  02:52:01  log:message=4  reply_message=1000
+
+time:05-30  02:52:01  log:DispatchCallBack:: msg_type=4   size=8624 
+
+time:05-30  02:52:01  log:message=4  reply_message=201
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_GetFaceSystemCfgEx,line:4002,cam:606ae8:sucess
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_ConnectEx,line:2473,ip:127.0.0.1,sucess
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:52:01  log:w=1447 h=1446 
+
+time:05-30  02:52:01  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:52:02  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:52:02  log:[infor]AddFacePacket Send
+time:05-30  02:52:02  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:52:03  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:52:03  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:52:03  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:52:03  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:52:03  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:52:03  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:52:03  log:w=3000 h=4000 
+
+time:05-30  02:52:04  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:52:04  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:52:04  log:[infor]AddFacePacket Send
+time:05-30  02:52:05  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:52:05  log:w=295 h=413 
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:52:05  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:52:05  log:[infor]AddFacePacket Send
+time:05-30  02:52:06  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:52:06  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:52:06  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:52:06  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:52:06  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:52:10  log:b_deinit++++++++++++++++++++
+
+time:05-30  02:52:10  log:ti:17:36:29 May 10 2019,fuc:HA_DisConnect,line:2618,cam:606ae8
+
+time:05-30  02:52:10  log:DisConnect by user
+
+time:05-30  02:52:10  log:[infor]  DisConnect 
+
+time:05-30  02:52:10  log:ti:17:36:29 May 10 2019,fuc:HA_DisConnect,line:2640,cam:606ae8,sucess
+
+time:05-30  02:52:10  log:[infor]HA_DisConnect
+
+time:05-30  02:52:10  log:[infor]object stop
+
+time:05-30  02:52:10  log:[infor] alldisconnected
+
+time:05-30  02:52:10  log:[infor]CallBackThread::stop
+
+time:05-30  02:52:10  log:[infor]CallBackThread::WakeAll
+
+time:05-30  02:52:10  log:[infor]g_dispatchCbThread stop
+
+time:05-30  02:52:10  log:[infor]delete object
+
+time:05-30  02:52:10  log:[infor]delete Decode
+
+time:05-30  02:52:10  log:[infor]delete CallbackThread
+
+time:05-30  02:52:10  log:[infor]delete patchCbThread
+
+time:05-30  02:52:10  log:deint_end____________________
+
+time:05-30  02:53:14  log:[infor] HA_InitEx 
+
+time:05-30  02:53:14  log:[infor] HA_InitEx sucess
+
+time:05-30  02:53:14  log:[infor] HA_ConnectEx ip=127.0.0.1 
+
+time:05-30  02:53:14  log:CCameraClient::ConnectToHost IP=127.0.0.1 
+ 
+time:05-30  02:53:14  log:connect sucess IP =127.0.0.1 
+
+time:05-30  02:53:14  log:[infor]EventCallBack cam=0x606ae8,static=1 
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2549,cam:606ae8
+
+time:05-30  02:53:14  log:DispatchCallBack:: msg_type=4   size=16 
+
+time:05-30  02:53:14  log:message=4  reply_message=7
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2610,cam:606ae8,ret=0 
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2549,cam:606ae8
+
+time:05-30  02:53:14  log:DispatchCallBack:: msg_type=4   size=16 
+
+time:05-30  02:53:14  log:message=4  reply_message=7
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_VerifyCam,line:2610,cam:606ae8,ret=0 
+
+time:05-30  02:53:14  log:g_EventCallbackThread end
+
+time:05-30  02:53:14  log:connect end IP=127.0.0.1  
+
+time:05-30  02:53:14  log:DispatchCallBack:: msg_type=4   size=476 
+
+time:05-30  02:53:14  log:message=4  reply_message=1000
+
+time:05-30  02:53:14  log:DispatchCallBack:: msg_type=4   size=8624 
+
+time:05-30  02:53:14  log:message=4  reply_message=201
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_GetFaceSystemCfgEx,line:4002,cam:606ae8:sucess
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_ConnectEx,line:2473,ip:127.0.0.1,sucess
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:53:14  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:53:15  log:w=1447 h=1446 
+
+time:05-30  02:53:15  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:53:15  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:53:15  log:[infor]AddFacePacket Send
+time:05-30  02:53:16  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10348,cam:606ae8
+
+time:05-30  02:53:16  log:w=1447 h=1446 
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10516,cam:606ae8
+
+time:05-30  02:53:16  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:10895,cam:606ae8
+
+time:05-30  02:53:16  log:[infor]AddFacePacket Send
+time:05-30  02:53:17  log:DispatchCallBack:: msg_type=4   size=36 
+
+time:05-30  02:53:17  log:ti:17:36:29 May 10 2019,fuc:HA_AddFacePacket,line:11000,cam:606ae8,error:sucess
+
+time:05-30  02:53:17  log:ti:17:36:29 May 10 2019,fuc:HA_AddFaces,line:10597,cam:606ae8,error:unonnected
+
+time:05-30  02:53:17  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgFaces,line:10394,cam:606ae8,error:sucess
+
+time:05-30  02:53:17  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10260,cam:606ae8,error:unonnected
+
+time:05-30  02:53:17  log:ti:17:36:29 May 10 2019,fuc:HA_AddJpgPaths,line:10230,cam:606ae8
+
+time:05-30  03:25:43  log:DispatchCallBack:: msg_type=5   size=520488 
+
+time:05-30  03:25:44  log:DispatchCallBack:: msg_type=5   size=450172 
+
+time:05-30  03:25:44  log:DispatchCallBack:: msg_type=5   size=405680 
+
+time:05-30  03:25:44  log:DispatchCallBack:: msg_type=5   size=411040 
+
+time:05-30  03:25:45  log:DispatchCallBack:: msg_type=5   size=407180 
+
+time:05-30  03:25:45  log:DispatchCallBack:: msg_type=5   size=402708 
+
+time:05-30  03:25:45  log:DispatchCallBack:: msg_type=5   size=394528 
+
+time:05-30  03:25:46  log:DispatchCallBack:: msg_type=5   size=385272 
+
+time:05-30  03:25:46  log:DispatchCallBack:: msg_type=5   size=378960 
+
+time:05-30  03:25:46  log:DispatchCallBack:: msg_type=5   size=370460 
+
+time:05-30  03:25:47  log:DispatchCallBack:: msg_type=5   size=371076 
+
+time:05-30  03:25:47  log:DispatchCallBack:: msg_type=5   size=379048 
+
+time:05-30  03:25:47  log:DispatchCallBack:: msg_type=5   size=402592 
+
+time:05-30  03:25:58  log:DispatchCallBack:: msg_type=5   size=412156 
+
+time:05-30  03:25:58  log:DispatchCallBack:: msg_type=5   size=369068 
+
+time:05-30  03:25:58  log:DispatchCallBack:: msg_type=5   size=353592 
+
+time:05-30  03:25:59  log:DispatchCallBack:: msg_type=5   size=356816 
+
+time:05-30  03:25:59  log:DispatchCallBack:: msg_type=5   size=335704 
+
+time:05-30  03:25:59  log:DispatchCallBack:: msg_type=5   size=340876 
+
+time:05-30  03:26:00  log:DispatchCallBack:: msg_type=5   size=342812 
+
+time:05-30  03:26:00  log:DispatchCallBack:: msg_type=5   size=341688 
+
+time:05-30  03:26:00  log:DispatchCallBack:: msg_type=5   size=349308 
+
+time:05-30  03:26:01  log:DispatchCallBack:: msg_type=5   size=352904 
+
+time:05-30  03:26:01  log:DispatchCallBack:: msg_type=5   size=372152 
+
+time:05-30  03:26:01  log:DispatchCallBack:: msg_type=5   size=347164 
+
+time:05-30  03:26:02  log:DispatchCallBack:: msg_type=5   size=375368 
+
+time:05-30  03:26:02  log:DispatchCallBack:: msg_type=5   size=365312 
+
+time:05-30  03:26:02  log:DispatchCallBack:: msg_type=5   size=364620 
+
+time:05-30  03:26:03  log:DispatchCallBack:: msg_type=5   size=375272 
+
+time:05-30  03:26:03  log:DispatchCallBack:: msg_type=5   size=359572 
+
+time:05-30  03:26:03  log:DispatchCallBack:: msg_type=5   size=374432 
+
+time:05-30  03:26:04  log:DispatchCallBack:: msg_type=5   size=356676 
+
+time:05-30  03:26:04  log:DispatchCallBack:: msg_type=5   size=358632 
+
+time:05-30  03:26:04  log:DispatchCallBack:: msg_type=5   size=352500 
+
+time:05-30  03:26:04  log:DispatchCallBack:: msg_type=5   size=348400 
+
+time:05-30  03:26:05  log:DispatchCallBack:: msg_type=5   size=352588 
+
+time:05-30  03:26:05  log:DispatchCallBack:: msg_type=5   size=331396 
+
+time:05-30  03:26:05  log:DispatchCallBack:: msg_type=5   size=358264 
+
+time:05-30  03:26:06  log:DispatchCallBack:: msg_type=5   size=348156 
+
+time:05-30  03:26:06  log:DispatchCallBack:: msg_type=5   size=347316 
+
+time:05-30  03:26:06  log:DispatchCallBack:: msg_type=5   size=352776 
+
+time:05-30  03:26:07  log:DispatchCallBack:: msg_type=5   size=457908 
+
+time:05-30  03:26:08  log:DispatchCallBack:: msg_type=5   size=591940 
+
+time:05-30  03:26:08  log:DispatchCallBack:: msg_type=5   size=606868 
+
+time:05-30  03:26:09  log:DispatchCallBack:: msg_type=5   size=543912 
+
+time:05-30  03:26:09  log:DispatchCallBack:: msg_type=5   size=528648 
+
+time:05-30  03:26:10  log:DispatchCallBack:: msg_type=5   size=522596 
+
+time:05-30  03:26:11  log:DispatchCallBack:: msg_type=5   size=522052 
+
+time:05-30  03:26:14  log:DispatchCallBack:: msg_type=5   size=525292 
+
+time:05-30  03:26:14  log:DispatchCallBack:: msg_type=5   size=555348 
+
+time:05-30  03:26:15  log:DispatchCallBack:: msg_type=5   size=563932 
+
+time:05-30  03:26:15  log:DispatchCallBack:: msg_type=5   size=558992 
+
+time:05-30  03:26:15  log:DispatchCallBack:: msg_type=5   size=551360 
+
+time:05-30  03:26:16  log:DispatchCallBack:: msg_type=5   size=545408 
+
+time:05-30  03:26:16  log:DispatchCallBack:: msg_type=5   size=540740 
+
+time:05-30  03:26:19  log:DispatchCallBack:: msg_type=5   size=370728 
+
+time:05-30  03:26:25  log:DispatchCallBack:: msg_type=5   size=743276 
+
+time:05-30  05:58:15  log:DispatchCallBack:: msg_type=5   size=306396 
+
+time:05-30  05:58:16  log:DispatchCallBack:: msg_type=5   size=279424 
+
+time:05-30  05:58:16  log:DispatchCallBack:: msg_type=5   size=269156 
+
+time:05-30  05:58:16  log:DispatchCallBack:: msg_type=5   size=280664 
+
+time:05-30  05:58:17  log:DispatchCallBack:: msg_type=5   size=289024 
+
+time:05-30  05:58:17  log:DispatchCallBack:: msg_type=5   size=298996 
+
+time:05-30  05:58:17  log:DispatchCallBack:: msg_type=5   size=302048 
+
+time:05-30  05:58:18  log:DispatchCallBack:: msg_type=5   size=313388 
+
+time:05-30  05:58:18  log:DispatchCallBack:: msg_type=5   size=303680 
+
+time:05-30  05:58:19  log:DispatchCallBack:: msg_type=5   size=304108 
+
+time:05-30  05:58:19  log:DispatchCallBack:: msg_type=5   size=310772 
+
+time:05-30  06:45:06  log:b_deinit++++++++++++++++++++
+
+time:05-30  06:45:06  log:ti:17:36:29 May 10 2019,fuc:HA_DisConnect,line:2618,cam:606ae8
+
+time:05-30  06:45:06  log:DisConnect by user
+
+time:05-30  06:45:06  log:[infor]  DisConnect 
+
+time:05-30  06:45:06  log:ti:17:36:29 May 10 2019,fuc:HA_DisConnect,line:2640,cam:606ae8,sucess
+
+time:05-30  06:45:06  log:[infor]HA_DisConnect
+
+time:05-30  06:45:06  log:[infor]object stop
+
+time:05-30  06:45:06  log:[infor] alldisconnected
+
+time:05-30  06:45:06  log:[infor]CallBackThread::stop
+
+time:05-30  06:45:06  log:[infor]CallBackThread::WakeAll
+
+time:05-30  06:45:06  log:[infor]g_dispatchCbThread stop
+
+time:05-30  06:45:06  log:[infor]delete object
+
+time:05-30  06:45:06  log:[infor]delete Decode
+
+time:05-30  06:45:06  log:[infor]delete CallbackThread
+
+time:05-30  06:45:06  log:[infor]delete patchCbThread
+
+time:05-30  06:45:06  log:deint_end____________________
+
+time:10-05  08:11:31  log:[infor] HA_InitEx 
+
+time:10-05  08:11:31  log:[infor] HA_InitEx sucess
+
+time:10-05  08:11:31  log:[infor] HA_ConnectEx ip=127.0.0.1 
+
+time:10-05  08:11:31  log:CCameraClient::ConnectToHost IP=127.0.0.1 
+ 
+time:10-05  08:11:31  log:connect sucess IP =127.0.0.1 
+
+time:10-05  08:11:31  log:connect end IP=127.0.0.1  
+
+time:10-05  08:11:31  log:[infor]EventCallBack cam=0x62ebe8,static=1 
+
+time:10-05  08:11:31  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2528,cam:62ebe8
+
+time:10-05  08:11:31  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:11:31  log:message=4  reply_message=7 reply_code = 0 
+
+time:10-05  08:11:31  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2589,cam:62ebe8,ret=0 
+
+time:10-05  08:11:31  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2528,cam:62ebe8
+
+time:10-05  08:11:32  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:11:32  log:message=4  reply_message=7 reply_code = 0 
+
+time:10-05  08:11:32  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2589,cam:62ebe8,ret=0 
+
+time:10-05  08:11:32  log:g_EventCallbackThread end
+
+time:10-05  08:11:32  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:11:32  log:message=4  reply_message=1000 reply_code = 0 
+
+time:10-05  08:11:32  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:11:32  log:message=4  reply_message=201 reply_code = 0 
+
+time:10-05  08:11:32  log:ti:18:32:48 Sep  3 2019,fuc:HA_GetFaceSystemCfgEx,line:3967,cam:62ebe8:sucess
+
+time:10-05  08:11:32  log:ti:18:32:48 Sep  3 2019,fuc:HA_ConnectEx,line:2448,ip:127.0.0.1,sucess
+
+time:10-05  08:11:32  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:[error] HeartBeatMonitor recv 
+
+time:10-05  08:10:05  log:[infor]  DisConnect 
+
+time:10-05  08:10:05  log:[infor]EventCallBack cam=0x62ebe8,static=2 
+
+time:10-05  08:10:05  log:g_EventCallbackThread end
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:07  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:07  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:09  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:09  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:09  log:b_deinit++++++++++++++++++++
+
+time:10-05  08:10:09  log:ti:18:32:48 Sep  3 2019,fuc:HA_DisConnect,line:2597,cam:62ebe8
+
+time:10-05  08:10:09  log:DisConnect by user
+
+time:10-05  08:10:09  log:[infor]  DisConnect 
+
+time:10-05  08:10:09  log:ti:18:32:48 Sep  3 2019,fuc:HA_DisConnect,line:2617,cam:62ebe8,sucess
+
+time:10-05  08:10:09  log:[infor] alldisconnected
+
+time:10-05  08:10:09  log:[infor]g_dispatchCbThread stop
+
+time:10-05  08:10:09  log:Line = 1813 
+
+time:10-05  08:10:09  log:Line = 1815 
+
+time:10-05  08:10:09  log:Line = 1818 
+
+time:10-05  08:10:09  log:[infor]delete Decode
+
+time:10-05  08:10:09  log:[infor]delete CallbackThread
+
+time:10-05  08:10:09  log:[infor]delete patchCbThread
+
+time:10-05  08:10:09  log:deint_end____________________
+
+time:10-05  08:22:25  log:[infor] HA_InitEx 
+
+time:10-05  08:22:25  log:[infor] HA_InitEx sucess
+
+time:10-05  08:22:26  log:[infor] HA_ConnectEx ip=127.0.0.1 
+
+time:10-05  08:22:26  log:CCameraClient::ConnectToHost IP=127.0.0.1 
+ 
+time:10-05  08:22:26  log:connect sucess IP =127.0.0.1 
+
+time:10-05  08:22:26  log:connect end IP=127.0.0.1  
+
+time:10-05  08:22:26  log:[infor]EventCallBack cam=0x62ebe8,static=1 
+
+time:10-05  08:22:26  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2528,cam:62ebe8
+
+time:10-05  08:22:26  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:22:26  log:message=4  reply_message=7 reply_code = 0 
+
+time:10-05  08:22:26  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2589,cam:62ebe8,ret=0 
+
+time:10-05  08:22:26  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2528,cam:62ebe8
+
+time:10-05  08:22:26  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:22:26  log:message=4  reply_message=7 reply_code = 0 
+
+time:10-05  08:22:26  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2589,cam:62ebe8,ret=0 
+
+time:10-05  08:22:26  log:g_EventCallbackThread end
+
+time:10-05  08:22:26  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:22:26  log:message=4  reply_message=1000 reply_code = 0 
+
+time:10-05  08:22:26  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:22:26  log:message=4  reply_message=201 reply_code = 0 
+
+time:10-05  08:22:26  log:ti:18:32:48 Sep  3 2019,fuc:HA_GetFaceSystemCfgEx,line:3967,cam:62ebe8:sucess
+
+time:10-05  08:22:26  log:ti:18:32:48 Sep  3 2019,fuc:HA_ConnectEx,line:2448,ip:127.0.0.1,sucess
+
+time:10-05  08:22:26  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:25  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:DispatchCallBack:: msg_type=2 
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=2 
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=2 
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:24  log:b_deinit++++++++++++++++++++
+
+time:08-03  00:34:24  log:ti:18:32:48 Sep  3 2019,fuc:HA_DisConnect,line:2597,cam:62ebe8
+
+time:08-03  00:34:24  log:DisConnect by user
+
+time:08-03  00:34:24  log:[infor]  DisConnect 
+
+time:08-03  00:34:24  log:ti:18:32:48 Sep  3 2019,fuc:HA_DisConnect,line:2617,cam:62ebe8,sucess
+
+time:08-03  00:34:24  log:[infor] alldisconnected
+
+time:08-03  00:34:24  log:[infor]g_dispatchCbThread stop
+
+time:08-03  00:34:24  log:Line = 1813 
+
+time:08-03  00:34:24  log:Line = 1815 
+
+time:08-03  00:34:24  log:Line = 1818 
+
+time:08-03  00:34:24  log:[infor]delete Decode
+
+time:08-03  00:34:24  log:[infor]delete CallbackThread
+
+time:08-03  00:34:24  log:[infor]delete patchCbThread
+
+time:08-03  00:34:24  log:deint_end____________________
+
+time:08-03  00:46:57  log:[infor] HA_InitEx 
+
+time:08-03  00:46:57  log:[infor] HA_InitEx sucess
+
+time:08-03  00:46:57  log:[infor] HA_ConnectEx ip=127.0.0.1 
+
+time:08-03  00:46:57  log:CCameraClient::ConnectToHost IP=127.0.0.1 
+ 
+time:08-03  00:46:57  log:connect sucess IP =127.0.0.1 
+
+time:08-03  00:46:57  log:connect end IP=127.0.0.1  
+
+time:08-03  00:46:57  log:[infor]EventCallBack cam=0x62ebe8,static=1 
+
+time:08-03  00:46:57  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2528,cam:62ebe8
+
+time:08-03  00:46:57  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:46:57  log:message=4  reply_message=7 reply_code = 0 
+
+time:08-03  00:46:57  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2589,cam:62ebe8,ret=0 
+
+time:08-03  00:46:57  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2528,cam:62ebe8
+
+time:08-03  00:46:57  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:46:57  log:message=4  reply_message=7 reply_code = 0 
+
+time:08-03  00:46:57  log:ti:18:32:48 Sep  3 2019,fuc:HA_VerifyCam,line:2589,cam:62ebe8,ret=0 
+
+time:08-03  00:46:57  log:g_EventCallbackThread end
+
+time:08-03  00:46:58  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:46:58  log:message=4  reply_message=1000 reply_code = 0 
+
+time:08-03  00:46:58  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:46:58  log:message=4  reply_message=201 reply_code = 0 
+
+time:08-03  00:46:58  log:ti:18:32:48 Sep  3 2019,fuc:HA_GetFaceSystemCfgEx,line:3967,cam:62ebe8:sucess
+
+time:08-03  00:46:58  log:ti:18:32:48 Sep  3 2019,fuc:HA_ConnectEx,line:2448,ip:127.0.0.1,sucess
+
+time:08-03  00:46:58  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=2 
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:24  log:DispatchCallBack:: msg_type=2 
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:25  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:10-05  08:10:05  log:DispatchCallBack:: msg_type=4 
+
+time:10-05  08:10:05  log:message=4  reply_message=12 reply_code = 0 
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:10-05  08:10:05  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3660,cam:62ebe8
+
+time:08-03  00:34:23  log:DispatchCallBack:: msg_type=4 
+
+time:08-03  00:34:23  log:message=4  reply_message=12 reply_code = 0 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_SetSystemTime,line:3696,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:b_deinit++++++++++++++++++++
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_DisConnect,line:2597,cam:62ebe8
+
+time:08-03  00:34:23  log:DisConnect by user
+
+time:08-03  00:34:23  log:[infor]  DisConnect 
+
+time:08-03  00:34:23  log:ti:18:32:48 Sep  3 2019,fuc:HA_DisConnect,line:2617,cam:62ebe8,sucess
+
+time:08-03  00:34:23  log:[infor] alldisconnected
+
+time:08-03  00:34:23  log:[infor]g_dispatchCbThread stop
+
+time:08-03  00:34:23  log:Line = 1813 
+
+time:08-03  00:34:23  log:Line = 1815 
+
+time:08-03  00:34:23  log:Line = 1818 
+
+time:08-03  00:34:23  log:[infor]delete Decode
+
+time:08-03  00:34:23  log:[infor]delete CallbackThread
+
+time:08-03  00:34:23  log:[infor]delete patchCbThread
+
+time:08-03  00:34:23  log:deint_end____________________
+
